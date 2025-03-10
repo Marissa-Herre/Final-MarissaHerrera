@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Final Marissa Herrera</title>
+</head>
+<body>
+
+<h1>Marissa Herrera Final</h1>
+<p>Test.</p>
+
+<img src="crystals.jpg" alt="Four crystals on a desk" usemap="#workmap" width="200" height="350">
+
+<map name="workmap">
+  <area shape="rect" coords="" alt="quartz" href="_.htm">
+  <area shape="rect" coords="" alt="kyanite" href="_.htm">
+  <area shape="circle" coords="" alt="rosequartz" href="_.htm">
+  <area shape="rect" coords="" alt="selenite" href="_.htm">
+</map>
+
+</body>
+</html>
